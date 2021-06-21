@@ -8,7 +8,7 @@ This is a single page application where users can add messages, delete, mark mes
 
 - React
 - CSS3
--JavaScript
+- JavaScript
 - Bootstrap
 - Git
 - GitHub
