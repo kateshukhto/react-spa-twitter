@@ -1,0 +1,8 @@
+.bottom-panel {
+   margin-top: 20px;
+}
+.bottom-panel .new-post-item {
+   width: auto;
+   flex-grow: 1;
+   margin-right: 3px;
+}
